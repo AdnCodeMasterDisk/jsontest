@@ -1,0 +1,58 @@
+[
+
+  {
+    "name": "Java",
+    "entorno": "Desk and movile",
+    "fecha": "20 Oct 1997",
+    "logo": "https://drive.google.com/file/d/1kopoLbhtDcrc64GwFjBeq-JT-yIrEazV/view?usp=sharing",
+    "descripcion": "Remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently",
+    "descripcionlarga": "Lemaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently"
+  },
+
+  {
+    "name": "JavaScrip",
+    "entorno": "Web",
+    "fecha": "30 DIc 1998",
+    "logo": "https://drive.google.com/file/d/1ilF8rko2c4yPsuEmLHofcHpVkl1Vk9Z5/view?usp=sharing",
+    "descripcion": "Remaining essentiallye 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently",
+    "descripcionlarga": "Lemaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently"
+  },
+
+  {
+    "name": "Kotlin",
+    "entorno": "Android",
+    "fecha": "7 Sep 2017",
+    "logo": "https://drive.google.com/file/d/1YtUsur4yCc_af8XmFr-SCdVtznHQ8BdB/view?usp=sharing",
+    "descripcion": "Remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently",
+    "descripcionlarga": "Lemaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently"
+  },
+
+  {
+    "name": "Flutter",
+    "entorno": "Multiplataform",
+    "fecha": "4 Jun 2019",
+    "logo": "https://drive.google.com/file/d/1Rqy7qWOWPvaMYAMkAosBeRs4-ZmHLe1n/view?usp=sharing",
+    "descripcion": "Remaining essentia Letraset sheets containing Lorem Ipsum passages, and more recently",
+    "descripcionlarga": "Lemaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently"
+  },
+
+  {
+    "name": "Php",
+    "entorno": "Web",
+    "fecha": "5 Ago 1988",
+    "logo": "https://drive.google.com/file/d/1XCMFvclPGm1AQRRVGlAoARav7N5yTqb1/view?usp=sharing",
+    "descripcion": "Remaining essentia Lrem Ipsum passages, and more recently",
+    "descripcionlarga": "Lemaining essentially unchanged. Its containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently"
+  },
+
+  {
+    "name": "TypeScript",
+    "entorno": "Web",
+    "fecha": "7 Ago 2015",
+    "logo": "https://drive.google.com/file/d/1gE3nJRr1k8eIOCX5x3lkdMp3Izq3T-LU/view?usp=sharing",
+    "descripcion": "Remaining essentia Lrem Ipsum passages, and more recently",
+    "descripcionlarga": "Lemaining essentially unchanged. Its containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recentlyremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently"
+  }
+
+
+]
