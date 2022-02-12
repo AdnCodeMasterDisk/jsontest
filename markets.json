@@ -1,0 +1,35 @@
+{
+  "offices": [
+    {
+      "address": "Vet1",
+      "id": "vetone",
+      "image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+      "lat": 5.7459814,
+      "lng": -73.0017604,
+      "name": "Vet 1",
+      "phone": "",
+      "region": "europe"
+    },
+    {
+      "address": "Vet2",
+      "id": "vettwo",
+      "image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+      "lat": 5.7483108,
+      "lng": -72.9984937,
+      "name": "Aarhus",
+      "phone": "",
+      "region": "europe"
+    },
+    {
+      "address": "Vet3",
+      "id": "vettre",
+      "image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+      "lat": 5.7482068,
+      "lng": -72.9931303,
+      "name": "Vet 3s",
+      "phone": "",
+      "region": "europe"
+    }
+    
+  ]
+}
