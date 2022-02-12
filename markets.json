@@ -1,5 +1,5 @@
 {
-  "offices": [
+  "Markers": [
     {
       "address": "Vet1",
       "id": "vetone",
@@ -30,6 +30,6 @@
       "phone": "",
       "region": "europe"
     }
-    
+
   ]
 }
