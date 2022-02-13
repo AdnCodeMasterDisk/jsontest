@@ -29,7 +29,18 @@
       "name": "Vet 3s",
       "phone": "",
       "region": "europe"
+    },
+    {
+      "address": "Vet4",
+      "id": "vettre",
+      "image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
+      "lat": 5.7889068,
+      "lng": -72.993177,
+      "name": "Vet 4s",
+      "phone": "",
+      "region": "europe"
     }
+
 
   ]
 }
