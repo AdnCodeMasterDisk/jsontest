@@ -7,7 +7,7 @@
       "lat": 5.7459814,
       "lng": -73.0017604,
       "name": "Vet 1",
-      "phone": "",
+      "phone": "3214562387",
       "region": "europe"
     },
     {
@@ -17,7 +17,7 @@
       "lat": 5.7483108,
       "lng": -72.9984937,
       "name": "Aarhus",
-      "phone": "",
+      "phone": "3215679875",
       "region": "europe"
     },
     {
@@ -27,20 +27,9 @@
       "lat": 5.7482068,
       "lng": -72.9931303,
       "name": "Vet 3s",
-      "phone": "",
-      "region": "europe"
-    },
-    {
-      "address": "Vet4",
-      "id": "vettre",
-      "image": "https://lh3.googleusercontent.com/tpBMFN5os8K-qXIHiAX5SZEmN5fCzIGrj9FdJtbZPUkC91ookSoY520NYn7fK5yqmh1L1m3F2SJA58v6Qps3JusdrxoFSwk6Ajv2K88",
-      "lat": 5.7889068,
-      "lng": -72.993177,
-      "name": "Vet 4s",
-      "phone": "",
+      "phone": "3012345465",
       "region": "europe"
     }
-
 
   ]
 }
