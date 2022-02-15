@@ -8,7 +8,8 @@
       "lng": -73.0017604,
       "name": "Vet 1",
       "phone": "3214562387",
-      "region": "europe"
+      "region": "europe",
+      "link":  "https://www.uniagraria.edu.co/programasacademicos/medicina-veterinaria/"
     },
     {
       "address": "Vet2",
@@ -18,7 +19,8 @@
       "lng": -72.9984937,
       "name": "Aarhus",
       "phone": "3215679875",
-      "region": "europe"
+      "region": "europe",
+      "link":  "https://www.ces.edu.co/es/programas/carreras/medicina-veterinaria-y-zootecnia/"
     },
     {
       "address": "Vet3",
@@ -28,7 +30,8 @@
       "lng": -72.9931303,
       "name": "Vet 3s",
       "phone": "3012345465",
-      "region": "europe"
+      "region": "europe",
+      "link": "https://pub.dev/packages/url_launcher"
     }
 
   ]
