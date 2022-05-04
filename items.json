@@ -1,4 +1,7 @@
 {
+  "status": "true",
+  "message": "Data fetched successfully!",
+  
   "items": [
     {
       "title": "Title item 1",
